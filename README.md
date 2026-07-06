@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**kkkkk-88888/kkkkk-88888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Привет! Я Ксения👋
 
-Here are some ideas to get you started:
+Начинающий Python-разработчик. Учусь писать понятный код и разбираться в задачах,
+а не просто "делать, чтобы работало".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Сейчас изучаю:** Python, git, основы алгоритмов и структур данных
+
+**Проекты в этом профиле:**
+- 🧮 [calculator-cli](ССЫЛКА) — консольный калькулятор с обработкой ошибок
+- ✅ [todo-cli](ССЫЛКА) — менеджер задач с сохранением в файл
+- 🌦 [weather-app](ССЫЛКА) — получение погоды через открытое API
+
+**Связаться со мной:**
+- 📧 mail: fedinorozhek@mail.ru
+- 💼 Telegram: @k_kkkk9
+
+---
+*Портфолио пополняется — каждую неделю добавляю новый проект.*
